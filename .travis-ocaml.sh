@@ -168,7 +168,7 @@ install_on_linux () {
         OCAML_VERSION=4.01
         OCAML_FULL_VERSION=4.05.0
         install_opam2 ;;
-    4.06,1.2.2)
+    4.06.1,1.2.2)
         OCAML_VERSION=4.02
         OCAML_FULL_VERSION=4.06.1
         install_ppa avsm/ocaml42+opam12 ;;
@@ -176,7 +176,7 @@ install_on_linux () {
         OCAML_VERSION=4.01
         OCAML_FULL_VERSION=4.06.1
         install_opam2 ;;
-    4.07,1.2.2)
+    4.07.0,1.2.2)
         OCAML_VERSION=4.02
         OCAML_FULL_VERSION=4.07.0
         install_ppa avsm/ocaml42+opam12 ;;
